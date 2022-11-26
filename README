@@ -1,0 +1,2 @@
+This is the code of an epidemic simulation. 
+The main document is called main_trans_virus.py and the other files are auxiliar functions for the main script.
